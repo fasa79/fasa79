@@ -3,7 +3,7 @@
 <p><em>Data Science and Artificial Intelligence at <a href="http://www.iium.edu.my">International Islamic University Malaysia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Data Scientist Intern at <a href="https://www.tmrnd.com.my/">TM R&D</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: fadhluddinsahlan](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fadhluddinsahlan/)](https://www.linkedin.com/in/fadhluddinsahlan/)
+[![Linkedin: fadhluddinsahlan](https://img.shields.io/badge/-fadhluddinsahlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fadhluddinsahlan/)](https://www.linkedin.com/in/fadhluddinsahlan/)
 [![GitHub fasa79](https://img.shields.io/github/followers/fasa79?label=follow&style=social)](https://github.com/fasa79)
 
 
