@@ -13,7 +13,7 @@
 mydict = {
   "hobby": "gaming",
   "code": ["Python", "R", "Java", "JavaScript", "HTML", "CSS", "C++", "Solidity"],
-  "tools": ["PowerBI", "Laravel", "Flutter", "Truffle"],
+  "tools": ["Django", "Laravel", "Flutter", "Truffle"],
 }
 ```
 
