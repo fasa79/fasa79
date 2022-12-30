@@ -1,6 +1,6 @@
 <h2> Hi, I'm Fadhluddin Sahlan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/lKXEBR8m1jWso/giphy.gif" width="230">
-<p><em>Data Science and Artificial Intelligence at <a href="http://www.iium.edu.my">International Islamic University Malaysia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Data Science Intern at <a href="https://www.tmrnd.com.my/">TM R&D</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Data Science and Artificial Intelligence at <a href="http://www.iium.edu.my">International Islamic University Malaysia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: fadhluddinsahlan](https://img.shields.io/badge/-fadhluddinsahlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fadhluddinsahlan/)](https://www.linkedin.com/in/fadhluddinsahlan/)
